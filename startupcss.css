@@ -1,0 +1,9 @@
+body{
+	background-image: url(abc.jpg) ;
+	background-size: cover;
+
+}
+.row{
+	font-style: italic;
+	font-family: 'Poiret One',cursive;
+}
